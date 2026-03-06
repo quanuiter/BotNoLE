@@ -1,0 +1,18 @@
+# môi trường
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual environment
+venv/
+.venv/
+
+# vscode
+.vscode/
+
+# logs
+*.log
